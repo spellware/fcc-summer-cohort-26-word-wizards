@@ -3,7 +3,7 @@
   "env": {
     "DEVBOX_COREPACK_ENABLED": "true"
   },
-  "packages": ["nodejs@26.7.0"],
+  "packages": ["nodejs@26.13.1"],
   "shell": {
     "init_hook": ["echo 'Welcome to devbox!' > /dev/null"],
     "scripts": {
