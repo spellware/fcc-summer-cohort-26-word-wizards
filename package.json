@@ -28,7 +28,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.6.8",
+    "@biomejs/biome": "2.6.9",
     "lefthook": "^2.1.12",
     "supabase": "^2.116.0",
     "turbo": "^2.10.12"
