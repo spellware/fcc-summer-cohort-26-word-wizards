@@ -1,4 +1,4 @@
-FROM node:26.8.1-trixie-slim AS base
+FROM node:26.13.1-trixie-slim AS base
 
 RUN apt-get update \
 	&& apt-get install -y --no-install-recommends tini
